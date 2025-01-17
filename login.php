@@ -31,9 +31,10 @@
             $password = $_GET["password"];
 
             for ($i = 0; $i < count($usuarios); $i++) {
-                if (password_verify($password, $usuario)) {
+               
             }
         }
+    
     ?>
     <?php
 
