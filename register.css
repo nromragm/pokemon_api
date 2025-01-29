@@ -6,7 +6,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-image: url('https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png'); /* Imagen de fondo de Pokémon */
+    background-image: url('https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
