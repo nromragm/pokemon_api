@@ -13,6 +13,8 @@ function loadEventsFromJson() {
 function saveEventsToJson($users) {
     // Nombre del archivo JSON
     $file = 'usuarios.json';
-    file_put_contents($file, json_encode($users, JSON_PRETTY_PRINT));
+    $usuariosExistentes = loadEventsFromJson();
+    $usuariosExistentes[] = $users;
+    file_put_contents($file, json_encode($usuariosExistentes, JSON_PRETTY_PRINT));
 }
 ?>
