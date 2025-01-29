@@ -13,5 +13,30 @@
         "nombre": "Anna",
         "email": "anna@anna.com",
         "password": "anna"
+    },
+    {
+        "nombre": "aaana",
+        "email": "anna@aaanna.com",
+        "password": "aaa"
+    },
+    {
+        "nombre": "aaana",
+        "email": "annaa@aaanna.com",
+        "password": "aaa"
+    },
+    {
+        "nombre": "dada",
+        "email": "dadad@dadad",
+        "password": "123"
+    },
+    {
+        "nombre": "dada",
+        "email": "dadad@dadada",
+        "password": "123"
+    },
+    {
+        "nombre": "Paco",
+        "email": "paco@gmail.com",
+        "password": "paco"
     }
 ]
