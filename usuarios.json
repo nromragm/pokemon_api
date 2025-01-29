@@ -38,5 +38,15 @@
         "nombre": "Paco",
         "email": "paco@gmail.com",
         "password": "paco"
+    },
+    {
+        "nombre": "hola",
+        "email": "hola@hola",
+        "password": "123"
+    },
+    {
+        "nombre": "dada",
+        "email": "dada@da",
+        "password": "dada"
     }
 ]

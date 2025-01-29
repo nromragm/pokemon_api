@@ -6,6 +6,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    background-image: url('https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -34,12 +35,12 @@ label {
     color: #333;
 }
 
-input[type="email"], input[type="password"] {
-    border: 2px solid #ffcb05;
+input[type="text"], input[type="email"], input[type="password"] {
     width: 100%;
     padding: 10px;
     margin: 5px 0;
     font-size: 16px;
+    border: 2px solid #ffcb05;
     border-radius: 5px;
     box-sizing: border-box;
 }
