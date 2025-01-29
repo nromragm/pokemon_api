@@ -15,6 +15,14 @@
         <a href="do_register.php">
             <button class="btn btn-register">Registrarse</button>
         </a>
+    <div class="container">
+        <p>Selecciona una opción:</p>
+        <a href="do_login.php">
+            <button class="btn btn-login">Iniciar sesión</button>
+        </a>
+        <a href="do_register.php">
+            <button class="btn btn-register">Registrarse</button>
+        </a>
     </div>
 </body>
 </html>
